@@ -15,11 +15,11 @@
     "license" : "MIT",
     "require": {
         "php" : "*",
-        "illuminate/support" : "5.8.*|6.*|7.*|8.*|9.*|10.*",
-        "illuminate/routing": "5.8.*|6.*|7.*|8.*|9.*|10.*",
-        "illuminate/console": "5.8.*|6.*|7.*|8.*|9.*|10.*",
-        "illuminate/config": "5.8.*|6.*|7.*|8.*|9.*|10.*",
-        "illuminate/filesystem": "5.8.*|6.*|7.*|8.*|9.*|10.*"
+        "illuminate/support" : "9.*|10.*|11.*|12.*",
+        "illuminate/routing": "9.*|10.*|11.*|12.*",
+        "illuminate/console": "9.*|10.*|11.*|12.*",
+        "illuminate/config": "9.*|10.*|11.*|12.*",
+        "illuminate/filesystem": "9.*|10.*|11.*|12.*"
     },
     "require-dev" : {
         "phpunit/phpunit" : "~4.0",
